@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PC01MOVILESPERALESCODIGO1APELLIDO2CODIGO2"
+rootProject.name = "Perales-22200107"
 include(":app")
